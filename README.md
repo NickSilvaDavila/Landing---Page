@@ -1,83 +1,71 @@
 # Landing---Page
 
-[ Projeto - Landing-Page]
+𝐍𝐨𝐰 𝐥𝐨𝐚𝐝𝐢𝐧𝐠...
 
-[Descriçao](#descri%C3%A7ao)  
+# Índice🗝️
+   - [trabalho de recuperação - Landing Page ](#trabalho-de-recupera%C3%A7%C3%A3o----lan-page)  
+   - [Descrição](#descri%C3%A7%C3%A3o)  
+   - [Introdução](#introdu%C3%A7%C3%A3o)  
+   - [Funcionalidades](#funcionalidades)
+   - [codigos](#codigos)
+   - [Tecnologias Utilizadas](#tecnologias-utilizadas)  
+   - [Fontes Consultadas](#fontes-consultadas)  
+   - [Autores](#autores)  
 
-[Introduçao](#introdu%C3%A7ao)  
+   ┕━»•» 🌺 «•«━━━━━┙
 
-[Funcionalidade](#funcionalidade) 
+# trabalho de recuperação -  Landing Page 🚀
 
-[Tecnologias-utilizadas](#tecnologias-ultilizadas)  
+<img src="img/capa.png" width="100%">
 
-[Fontes-consultadas](#fontes-consultadas)
+## DESCRIÇÃO.♡ 🦋
+Desenvolver uma página do tipo Landing Page para o estabelecimento comercial recém-inaugurado na Saul Elkind, especificamente uma cafeteria. O propósito primordial da referida página é apresentar promoções, bem como informar e promover os produtos e serviços oferecidos pelo novo empreendimento aos potenciais consumidores da localidade circunvizinha. A mencionada página será utilizada como meio de divulgação para anunciar o início das operações do negócio por meio do perfil institucional no Instagram da empresa.
 
-[Autores](#autores)  
+╚══ ❀•°❀°•❀ ══╝
 
-  ꕥ 🆂🅴🅹🅰 🅱🅴🅼 🆅🅸🅽🅳🅾 ꕥ
+## Introdução🌟
+Esta landing page apresenta informações atrativas e relevantes acerca do novo empreendimento localizado na Saul Elkind, estabelecendo um ambiente online destinado à divulgação dos serviços oferecidos pela cafeteria.
 
-# 📧 Projeto - Form-CadEndereço 📧
+┏━━━•❃°•°❀°•°❃•━━━┓
 
-## Descrição: ꯭ᬁ🌷💫࿔
+## Funcionalidades🌺
+- A página inicial destina-se a disponibilizar informações relativas à cafeteria.
+- Tem como objetivo atrair a atenção dos potenciais clientes.
+- Proporciona a exposição dos produtos e serviços oferecidos pela cafeteria.
+- Integra links de navegação com o intuito de facilitar o acesso às diversas seções da página.
+- Incentiva os visitantes a explorarem mais detalhadamente os produtos oferecidos.
 
-Esse site tem como a sua principal ocupaçao, avisar os dados de endereço do cadastro involutariamente, apenas utilizando o CEP. Sua principal funcionalidade é de constatar o endereço via CEP. Como HTML, GitHub, Visual Studio Code e o JavaScript tendo sido aplicados no processo, além disso foi-se utilizado 3 fontes de consultas diferentes, todas elas presentes com links diretos no penúltimo indíce desse README.
+╔══════ ❀•°❀°•❀ ══════╗
 
-<h4 align="center">
-    :construction: 🚧 Projeto em construção 🚧 :construction:
-</h4>
+## CODIGOSꕥ
 
-▁ ▂ ▃ ▄▅ ▆ █ 100%
+<img src="img/Projeto.gif" width="100%">
+<img src="img/funções.png" width="30%">
 
-## Introdução: 𓆩♡𓆪
+**index.html:** Este documento constitui a página principal da aplicação, incorporando a estrutura HTML essencial e referências aos estilos e scripts necessários.
 
-O site tem como a sua principal atribuiçao, anunciar os dados de endereço do cadastro involuntariamente, apenas utilizando do CEP.
+**style.css:**  Arquivo em linguagem CSS incumbido da formatação estilística e disposição visual da página.
 
-## Funcionalidades: 📚⃤
+**app.js:** Arquivo JavaScript destinado a administrar a funcionalidade relacionada ao modo claro/escuro.
 
-Cadastrar o endereço apenas com o CEP.
-
-## Tecnológias utilizadas:🌺⃤
-
-As Tecnologias ultilizadas foram....
-
-HTML    
-
-<img src="_img/html.png" width="30%">
-
- 
- 
-GitHub
-
-
-   <img src="_img/github.png" width="30%">
-
+**/img:** Diretório que armazena imagens utilizadas na composição da página.
 
 
-Visual Studio Code
+╚════ ❀ ✿ ღღ ❀ ✿ ════╝
 
- 
+### Tecnologias Utilizadas🌐
+°HTML5    
+°CCS3       
+°JS   
 
-   <img src="_img/vscode.png" width="30%">
+❁•❁•❁•❁•❁•❁•❁•❁•❁•❁•❁•❁
 
- 
+## Fontes Consultadas🔍
+[Inteligência Artifcial](https://chat.openai.com/)     
+[youtube](https://youtu.be/RaITAxEdTDY?si=SYE6ZOLW1EYN8arR)       
+[répositorio github](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)    
 
-JavaScript
+✧❁❁✧✿✿✧❁❁✧
 
- 
-
-   <img src="_img/javascript.png" width="30%">
-
-
-꒷꒦꒷︶˚︶︶꒷꒦˚꒦꒷︶˚︶︶꒷꒦˚︶˚︶︶꒷꒦ ꒷꒦꒷︶˚︶︶꒷꒦˚꒦꒷︶˚︶︶꒷꒦˚︶˚︶︶꒷꒦ 
-
-## Fontes consultadas: 𖥨ํ∘̥⃟
-
-[Bootstrap5](https://getbootstrap.com/docs/5.3/forms/layout/) 
-
-[Alura](https://www.alura.com.br/artigos/escrever-bom-readme)- Como escrever um README incrível no seu Github
-
-[lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom README
-
-## Autores: ˚ · .˚ ༘🦋⋆｡˚
-
- Nicolly da Silva D'avila 2'A
+## Autores💮
+ [Nicolly da Silva Davila 2'A](https://github.com/NickSilvaDavila)
